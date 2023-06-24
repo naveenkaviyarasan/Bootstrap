@@ -1,0 +1,15 @@
+.a3{
+    font-size: 40px;
+    width: 50px;
+    height: 40px;
+    border:3px solid blue;
+}
+.c1{
+    position: relative;
+    right:50px;
+}
+.i1{
+    position: relative;
+    left: 50px;
+    top:200px;
+}

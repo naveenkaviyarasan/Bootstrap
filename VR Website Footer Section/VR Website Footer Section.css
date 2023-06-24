@@ -1,0 +1,22 @@
+@media screen and (max-width: 767.98px)
+{
+    .d1{
+        margin-left:10px;
+    }
+    .p{
+        text-align: center;
+        font-size: 20px;
+    }
+}
+.a1{
+    font-size: 20px;
+    background-color:gray;
+    height:50px;
+    width:50px;
+    padding-left:15px;
+    padding-top: 16px;
+    border-radius:50%;
+}
+.a2{
+    font-size: 22px; 
+}

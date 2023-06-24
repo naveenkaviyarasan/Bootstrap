@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.card-body{
+    background-color: #ffffff;
+}
+.card-title{
+    color: #323f4b;
+    font-family:'Roboto', sans-serif;
+}
+.button {
+    background-color: #323f4b;
+    color:#ffffff;
+    border-color: #d7dfe9;
+    font-family:'Roboto', sans-serif;
+}
+h5, p{
+    color:#7b8794;
+    font-family:'Roboto', sans-serif;
+}

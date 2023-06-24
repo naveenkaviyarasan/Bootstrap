@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
+body{
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/codingbg.png');
+    font-family: 'Bree Serif', serif;
+
+}
+.sub-div{
+        border: 5px solid #48ee59;
+        background-color: #00000080;
+}

@@ -1,0 +1,16 @@
+.card1{
+     background-image:url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png");
+     background-size: cover;
+     background-repeat:no no-repeat;
+}
+.card2{
+        background-image:url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png");
+        background-size: cover;
+        background-repeat:no no-repeat;
+   }
+   .margin1{
+   margin-top: 110px;
+   }
+.add1{
+    margin-top: 60px;
+ }

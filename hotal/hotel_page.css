@@ -1,0 +1,35 @@
+.bady{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/hotelbg.png");
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+
+.bgcolor{
+    background-color: #000000e6;
+    border-radius:  20px;
+  
+    color: #323f4b;
+    
+}
+.btm{
+    color: #323f4b;
+    background-color:#ffffff; 
+    border-radius: 10px;
+    border:3px solid #ffffff;
+}
+.text{
+    color:#ffffff;
+
+}
+.tet1{
+    font-family: BreeSerif;
+}
+.btm2{
+    font-family:Roboto;
+}
+.bt{
+    margin-top: 40px;
+}
+.bk{
+    margin-top: 600px;
+}
